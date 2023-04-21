@@ -1,0 +1,3 @@
+Black
+Django>=4.2
+uvicorn

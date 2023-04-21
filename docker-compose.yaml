@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  backend:
+    container_name: bespeak-backend
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    volumes:
+      - ./backend:/app/backend
+      - ./config:/config
+    environment:
+      - DEBUG=true
+    ports:
+      - "8000:8000"

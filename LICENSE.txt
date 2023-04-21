@@ -1,0 +1,43 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2023 Koby Huckabee
+
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name is changed.
+
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+1. You are allowed to copy and distribute verbatim copies of this
+   license document, but you are not allowed to modify it.
+
+2. You are allowed to modify this license document, but you must
+   rename it and remove any references to the original license.
+
+3. You are allowed to distribute copies of this license document
+   along with your modified versions of the software.
+
+4. The software covered by this license must be distributed under
+   the terms of this license or a compatible license.
+
+5. If you modify this software, you must distribute your modified
+   version under the same license as the original software.
+
+6. You are not allowed to sell this software or its derivatives for
+   profit.
+
+7. This software is provided "as is" and without warranty of any
+   kind, express or implied, including, but not limited to, the
+   implied warranties of merchantability and fitness for a
+   particular purpose.
+
+8. In no event shall the authors or copyright holders be liable
+   for any claim, damages or other liability, whether in an action
+   of contract, tort or otherwise, arising from, out of or in
+   connection with the software or the use or other dealings in the
+   software.
+
+Koby Huckabee - @Acetugboat
+
+April 20, 2023
